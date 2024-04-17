@@ -1,0 +1,14 @@
+C:\Users\giova\Desktop\New folder (5)\bin\Debug\netcoreapp2.1\New folder (5).deps.json
+C:\Users\giova\Desktop\New folder (5)\bin\Debug\netcoreapp2.1\New folder (5).runtimeconfig.json
+C:\Users\giova\Desktop\New folder (5)\bin\Debug\netcoreapp2.1\New folder (5).runtimeconfig.dev.json
+C:\Users\giova\Desktop\New folder (5)\bin\Debug\netcoreapp2.1\New folder (5).dll
+C:\Users\giova\Desktop\New folder (5)\bin\Debug\netcoreapp2.1\New folder (5).pdb
+C:\Users\giova\Desktop\New folder (5)\obj\Debug\netcoreapp2.1\New folder (5).csprojAssemblyReference.cache
+C:\Users\giova\Desktop\New folder (5)\obj\Debug\netcoreapp2.1\New folder (5).csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\New folder (5)\obj\Debug\netcoreapp2.1\New folder (5).RazorAssemblyInfo.cache
+C:\Users\giova\Desktop\New folder (5)\obj\Debug\netcoreapp2.1\New folder (5).RazorAssemblyInfo.cs
+C:\Users\giova\Desktop\New folder (5)\obj\Debug\netcoreapp2.1\New folder (5).AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\New folder (5)\obj\Debug\netcoreapp2.1\New folder (5).AssemblyInfo.cs
+C:\Users\giova\Desktop\New folder (5)\obj\Debug\netcoreapp2.1\New folder (5).RazorTargetAssemblyInfo.cache
+C:\Users\giova\Desktop\New folder (5)\obj\Debug\netcoreapp2.1\New folder (5).dll
+C:\Users\giova\Desktop\New folder (5)\obj\Debug\netcoreapp2.1\New folder (5).pdb

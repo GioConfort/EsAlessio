@@ -62,6 +62,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "WatsonORM": {
+              "target": "Package",
+              "version": "[3.0.8, )"
             }
           },
           "imports": [
